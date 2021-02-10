@@ -65,10 +65,10 @@
             <br>
 <p align='center'>
 <a align='center' href="https://github.com/ZychGrzegorz/ZychGrzegorz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zychgrzegorz&hide=c%2B%2B,c,html&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Zhenye's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zychgrzegorz&hide=c%2B%2B,c,html&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="ZychGrzegorz's GitHub Stats" />
 </a></p>
+<p align='center'><a href="https://www.codewars.com/users/Grzegorz%20Zych" rel="nofollow"><img src="https://www.codewars.com/users/Grzegorz%20Zych/badges/large" alt="Profile badge" data-canonical-src="https://www.codewars.com/users/Grzegorz%20Zych/badges/large" style="max-width:100%;"></a></p>
+
+<br>
 <p align='center'><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zychgrzegorz&"
         alt="zychgrzegorz" /></p>
-    
-<br>
-<p align='center'><a href="https://www.codewars.com/users/Grzegorz%20Zych" rel="nofollow"><img src="https://www.codewars.com/users/Grzegorz%20Zych/badges/large" alt="Profile badge" data-canonical-src="https://www.codewars.com/users/Grzegorz%20Zych/badges/large" style="max-width:100%;"></a></p>
