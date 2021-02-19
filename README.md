@@ -7,7 +7,7 @@
                <img src="https://avatars.githubusercontent.com/u/357098?s=200&v=4"
             alt="linkedin" width="35" height="35" />
         </a>
-       <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=grzegorzzych95@gmail.com" target="_blank">
+       <a href="mailto:grzegorzzych95@gmail.com" target="_blank">
        <img  style="-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://zapier-images.imgix.net/storage/services/54f0bd6f9c31b757ab20d4c7058dc7c0.png?auto=format&amp;ixlib=react-9.0.2&amp;ar=undefined&amp;fit=crop&amp;h=28&amp;w=28&amp;q=50&amp;dpr=1" width="35" height="35"/>
        </a>
     
